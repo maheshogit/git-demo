@@ -8,6 +8,7 @@ public class Calculator {
 
 	public int sub(int a, int b) {
 		int res = a - b;
+		System.out.println("mahesh");
 		return res;
 	}
 
